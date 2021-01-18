@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Jerel Lopez",
+    "occupation": "Full-Time college student",
+    "description": "Pursuing a Bachelor's degree in Computer Science, aspiring to become a full stack software developer",
+    "image": "JerelPic.jpg",
+    "bio": "My name is Jerel, I like cars, games, and coding. One day I want to work as a software developer ",
+    "contactmessage": "Feel free to contact me for any inquiries.",
+    "email": "lopezjerel@gmail.com",
+    "phone": "832-860-1453",
+    "address": {
+      "city": "Richmond",
+      "state": "TX",
+      "zip": "77407"
+    },
+    "website": "https://www.linkedin.com/in/jerellopez/",
+    "resumedownload": "https://www.linkedin.com/in/jerellopez/",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jerel-lopez-0361b819a",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/JLopezz3",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Houston",
+        "degree": "Bachelors in Science * Computer Science",
+        "graduated": "Aug 2019 - May 2021",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Houston Community College",
+        "degree": "Associates in Science * Computer Science",
+        "graduated": "Aug 2016 - Dec 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Javascript",
+        "level": "100%"
+      },
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Node.JS",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "90%"
+      },
+      {
+        "name": "MySQL",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "UH Consulting Clinic",
+        "category": "Consulting Clinic made using ReactJS, Material-UI, and Python Django",
+        "image": "Consulting.png",
+        "url": "http://scmatch.cs.uh.edu"
+      },
+      {
+        "title": "HealthHub",
+        "category": "Fullstack Healthcare Web App using (VueJS, Python Flask, and MySQL)",
+        "image": "healthhub.png",
+        "url": ""
+      },
+      {
+        "title": "MXER Social Music App",
+        "category": "Social Music App made using (ReactJS, Material-UI, MySQL)",
+        "image": "mxer.png",
+        "url": ""
+      },
+      {
+        "title": "Admin Portal",
+        "category": "Admin Portal built with (ReactJS, CSS3, Material-UI, Google Firebase)",
+        "image": "admin.png",
+        "url": "https://admin-portal-6a8fa.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon clone using (ReactJS, CSS3, Google Firebase, Stripe)",
+        "image": "amazon.png",
+        "url": "https://challenge-618dc.web.app"
+      },
+      {
+        "title": "Snapchat Desktop App",
+        "category": "Snapchat for Desktop using (ReactJS, Redux, CSS3, Material-UI, Google Firebase)",
+        "image": "Snapchat.png",
+        "url": "https://snapchat-clone-58634.web.app"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix clone built with (ReactJS, CSS3, Google Firebase, Netflix API)",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-77fea.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone with (ReactJS, CSS3, Google Firebase)",
+        "image": "airbnb.png",
+        "url": "https://airbnb-clone-8f1a3.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "user": "Martin Fowler"
+      },
+      {
+        "text": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+        "user": "Antoine de Saint-Exupery"
+      }
+    ]
+  }
+}
