@@ -2,35 +2,24 @@
   "main": {
     "name": "Jerel Lopez",
     "occupation": "Full-Time college student",
-    "description": "Pursuing a Bachelor's degree in Computer Science, aspiring to become a full stack web developer",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Jerel, I like cars, games, and coding. One day I want to work as a freelancer. ",
+    "description": "Pursuing a Bachelor's degree in Computer Science, aspiring to become a full stack software developer",
+    "image": "JerelPic.jpg",
+    "bio": "My name is Jerel, I like cars, games, and coding. One day I want to work as a software developer ",
     "contactmessage": "Feel free to contact me for any inquiries.",
-    "email": "lopezjerel@gmail.com.com",
-    "phone": "281-222-2222",
+    "email": "lopezjerel@gmail.com",
+    "phone": "832-860-1453",
     "address": {
-      "street": "123 Fake Street",
       "city": "Richmond",
       "state": "TX",
       "zip": "77407"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://www.linkedin.com/in/jerellopez/",
+    "resumedownload": "https://www.linkedin.com/in/jerellopez/",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/jerel.lopez.52",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/jerel-lopez-0361b819a",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/jlopezz3/",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -44,24 +33,19 @@
     "education": [
       {
         "school": "University of Houston",
-        "degree": "Bachelors in Computer Science",
-        "graduated": "May 2021",
+        "degree": "Bachelors in Science * Computer Science",
+        "graduated": "Aug 2019 - May 2021",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Houston Community College",
+        "degree": "Associates in Science * Computer Science",
+        "graduated": "Aug 2016 - Dec 2019",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
-      {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": ""
-      },
-      {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": ""
-      }
+      
     ],
     "skills": [
       {
@@ -69,70 +53,92 @@
         "level": "100%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Javascript",
+        "level": "100%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
       },
       {
         "name": "Node.JS",
-        "level": "80%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "90%"
+      },
+      {
+        "name": "MySQL",
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "UH Consulting Clinic",
+        "category": "Consulting Clinic made using ReactJS, Material-UI, and Python Django",
+        "image": "Consulting.png",
+        "url": "http://scmatch.cs.uh.edu"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "HealthHub",
+        "category": "Fullstack Healthcare Web App using (VueJS, Python Flask, and MySQL)",
+        "image": "healthhub.png",
+        "url": ""
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "MXER Social Music App",
+        "category": "Social Music App made using (ReactJS, Material-UI, MySQL)",
+        "image": "mxer.png",
+        "url": ""
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Admin Portal",
+        "category": "Admin Portal built with (ReactJS, CSS3, Material-UI, Google Firebase)",
+        "image": "admin.png",
+        "url": "https://admin-portal-6a8fa.web.app/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon clone using (ReactJS, CSS3, Google Firebase, Stripe)",
+        "image": "amazon.png",
+        "url": "https://challenge-618dc.web.app"
+      },
+      {
+        "title": "Snapchat Desktop App",
+        "category": "Snapchat for Desktop using (ReactJS, Redux, CSS3, Material-UI, Google Firebase)",
+        "image": "Snapchat.png",
+        "url": "https://snapchat-clone-58634.web.app"
       },
       {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "category": "Netflix clone built with (ReactJS, CSS3, Google Firebase, Netflix API)",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-77fea.web.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone with (ReactJS, CSS3, Google Firebase)",
+        "image": "airbnb.png",
+        "url": "https://airbnb-clone-8f1a3.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "user": "Martin Fowler"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+        "user": "Antoine de Saint-Exupery"
       }
     ]
   }
